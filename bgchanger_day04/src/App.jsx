@@ -63,6 +63,7 @@ function App() {
           <button onClick={() => setColor("green")} style={{ backgroundColor: "green", color: "white", padding: "8px 16px", borderRadius: "12px", border: "none" }}>Green</button>
           <button onClick={() => setColor("blue")} style={{ backgroundColor: "blue", color: "white", padding: "8px 16px", borderRadius: "12px", border: "none" }}>Blue</button>
           <button onClick={() => setColor("black")} style={{ backgroundColor: "black", color: "white", padding: "8px 16px", borderRadius: "12px", border: "none" }}>Black</button>
+          <button onClick={() => setColor("olive")} style={{ backgroundColor: "olive", color: "white", padding: "8px 16px", borderRadius: "12px", border: "none" }}>Olive</button>
         </div>
       </div>
     </div>
